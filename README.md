@@ -1,8 +1,7 @@
 # iRespawn
 
 iRespawn is an android app which provides laptops sales and repair services
-
-![1](https://user-images.githubusercontent.com/89989890/131986689-0190139e-abbe-4397-9a45-27bcbca799ff.jpg)
+<img src="https://user-images.githubusercontent.com/89989890/131986689-0190139e-abbe-4397-9a45-27bcbca799ff.jpg" width="400" height="400" />
 
 ## Getting Started
 
