@@ -2,6 +2,24 @@
 
 iRespawn is an android app which provides laptops sales and repair services.
 
+###Key Features:###
+
+#### User Features ####
+* This app is built using **Flutter framework** and **Google Firebase** as the back-end.
+* **Google cloud functions** are used to automate sending users the notification whenever a new product is added to the database.
+* **RazorPay** integration for realtime payments (RazorPay Test API).
+* Users can browse through various *products, post reviews and comments, add/remove products to cart or whishlist*.
+* Once order placed successfully user can check the order in the My Orders section.
+* The user receives a unique **barcode** along with the order details where the delivery agent scans for **verification** of the order and delivers the product.
+* An **invoice is generated dynamically** for the purchase, which is automatically saved to the *downloads folder in android and also sent to his registered email ID*.
+* Users can opt for troubleshooting service and can **Chat** with the troubleshooter to get the problem solved through chats or by using remote accesss tools such as *TeamViewer or Quick Assist is necessary.*
+
+#### Admin Features ####
+* Admin can **add, update and delete** products, and also can make a product as **featured** where only if the status of the product is *'Available'* will be available to users.
+* Admin views all the **orders received** and can change the shipment status, where the user receives a mail to his registered email ID for the same.
+* Admin/troubleshooter **views the chats** and responds to the user's queries.
+* Admin can **generate reports dynamically** for the *current day as well as for a specific range of dates*.
+
 Products Home page:
 
 <img src="https://user-images.githubusercontent.com/89989890/131986689-0190139e-abbe-4397-9a45-27bcbca799ff.jpg" width="220" height="450" />
@@ -37,6 +55,8 @@ Current day and Specific dates report:
 Admin Confirm order shipped and Scan barcode to deliver product:
 
 <img src="https://user-images.githubusercontent.com/89989890/131992636-cb47af29-797f-4142-b339-1b74994f336d.jpg" width="220" height="450" />
+
+
 
 
 
