@@ -36,7 +36,7 @@ Product Delivery Barcode Verification:
 
 Order details page and Invoice download after Product delivery:
 
-<img src="https://user-images.githubusercontent.com/89989890/131990984-10f5e0dd-419a-4b10-a3e5-543bd522a777.jpg" width="220" height="450" />
+<img src="https://user-images.githubusercontent.com/89989890/131996498-178dce34-3a65-43a3-9cba-7461c74aca09.jpg" width="220" height="450" />
 
 Service Page:
 
