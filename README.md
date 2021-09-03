@@ -20,6 +20,8 @@ iRespawn is an android app which provides laptops sales and repair services.
 * Admin/troubleshooter **views the chats** and responds to the user's queries.
 * Admin can **generate reports dynamically** for the *current day as well as for a specific range of dates*.
 
+###Sample Screenshots###
+
 Products Home page:
 
 <img src="https://user-images.githubusercontent.com/89989890/131986689-0190139e-abbe-4397-9a45-27bcbca799ff.jpg" width="220" height="450" />
