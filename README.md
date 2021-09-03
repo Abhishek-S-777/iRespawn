@@ -2,7 +2,7 @@
 
 iRespawn is an android app which provides laptops sales and repair services.
 
-###Key Features:###
+### Key Features: ###
 
 #### User Features ####
 * This app is built using **Flutter framework** and **Google Firebase** as the back-end.
@@ -20,7 +20,7 @@ iRespawn is an android app which provides laptops sales and repair services.
 * Admin/troubleshooter **views the chats** and responds to the user's queries.
 * Admin can **generate reports dynamically** for the *current day as well as for a specific range of dates*.
 
-###Sample Screenshots###
+### Sample Screenshots ###
 
 Products Home page:
 
