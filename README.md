@@ -1,6 +1,6 @@
 # iRespawn
 
-iRespawn is an android app which provides laptops sales and repair services.
+iRespawn is an android app built using Flutter framwork which provides laptops sales and repair services to users.
 
 ### Key Features: ###
 
