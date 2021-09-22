@@ -40,7 +40,7 @@ iRespawn is an android app built using Flutter framwork with Google Firebase as 
 
 <img src="https://user-images.githubusercontent.com/89989890/131996498-178dce34-3a65-43a3-9cba-7461c74aca09.jpg" width="220" height="450" />
 
-***Customer Invoice Copy***
+***Customer Invoice:***
 
 <img src="https://user-images.githubusercontent.com/89989890/134367883-62c75b70-f419-4753-8658-976c8d68f2f2.jpeg" width="220" height="450" />
 
