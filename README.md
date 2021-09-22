@@ -13,7 +13,7 @@ iRespawn is an android app built using Flutter framwork with Google Firebase as 
 * Update their profile such as their **display avatar and other details**.
 * Check the order in the My Orders section.
 * The user receives a unique **barcode** along with the order details where the delivery agent scans it for **verification** of the order and delivers the product.
-* An **invoice is generated dynamically** for the purchase, which is automatically saved to the *downloads folder in android and also sent to his registered email ID*.
+* An **invoice is generated dynamically** for the purchase, which is automatically saved to the *downloads folder in android and also sent to the registered email ID*.
 * Users can opt for troubleshooting service and can **Chat** with the troubleshooter to get the problem solved through chats or by using remote accesss tools such as *TeamViewer or Quick Assist is necessary.*
 
 #### Admin Features ####
@@ -39,6 +39,10 @@ iRespawn is an android app built using Flutter framwork with Google Firebase as 
 ***Order details page and Invoice download after Product delivery:***
 
 <img src="https://user-images.githubusercontent.com/89989890/131996498-178dce34-3a65-43a3-9cba-7461c74aca09.jpg" width="220" height="450" />
+
+***Customer Invoice Copy***
+
+<img src="https://user-images.githubusercontent.com/89989890/134367883-62c75b70-f419-4753-8658-976c8d68f2f2.jpeg" width="220" height="450" />
 
 ***Service Page:***
 
